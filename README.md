@@ -9,7 +9,7 @@ Just don't play the game while you're connected to the internet (or just use use
 Don't really have a solution for steam deleting your files (yet).
 
 ## Install notes
-1. Just drag and drop the files into your game directory and it'll work (I hope, it worked for me at least)
+1. Just drag and drop the files into your game directory and it'll work (I hope, it worked for me at least). Click replace all files for the ones it asks about.
 2. Only works on windows.
 3. Remember to change your bepinex to x64.
 4. Remember to _**NEVER**_ play the game while connected online to steam.
