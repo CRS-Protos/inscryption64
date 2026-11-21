@@ -5,7 +5,6 @@ So, you've been modding inscryption and your game keeps crashing because of a ra
 THIS GAME DOES NOT CONTAIN ANY INSCRYPTION ASSETS.
 
 Anyways, this disclaimer is actually important if you want to understand a little bit about how this hack works. Basically, it's a bunch of files I've Frankensteinly stitched together from other games and the unity engine and a few other places and now it turns into a x64 game.
-~~Just don't play the game while you're connected to the internet (or just use use offline mode on steam), because steam might delete all your game files and reinstall the game because it thinks it's corrupted.~~ 
 
 There is a small chance steam will detect your files are corrupted reinstalls the game. It should only happen once if it does. If not, you'll need to edit the game's acf file (app id is 1092790) which will hopefully stop it from auto updating on launch. If that doesn't work, then you can only play the game offline.
 
@@ -13,7 +12,6 @@ There is a small chance steam will detect your files are corrupted reinstalls th
 1. Just drag and drop the files into your game directory and it'll work (I hope, it worked for me at least). Click replace all files for the ones it asks about.
 2. Only works on windows.
 3. Remember to change your bepinex to x64.
-~~4. Remember to _**NEVER**_ play the game while connected online to steam.~~ Steam can play this game online
 
 ## How to check if you're running x64 or x86
 1. go to task manager
