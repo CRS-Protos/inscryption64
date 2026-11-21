@@ -10,7 +10,7 @@ There is a small chance steam will detect your files are corrupted reinstalls th
 
 ## Install notes
 1. Drag and drop the files into your game directory and it'll work. Click replace all files for the ones it asks about.
-2. Only works on windows.
+2. Only works on windows using steam
 3. Remember to change your bepinex to x64.
 
 ## How to check if you're running x64 or x86
