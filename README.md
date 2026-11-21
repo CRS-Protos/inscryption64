@@ -8,6 +8,8 @@ Anyways, this disclaimer is actually important if you want to understand a littl
 
 There is a small chance steam will detect your files are corrupted reinstalls the game. It should only happen once if it does. If not, you'll need to edit the game's acf file (app id is 1092790) which will hopefully stop it from auto updating on launch. If that doesn't work, then you can only play the game offline.
 
+If your game has a slime rancher icon in task manager it's a sure sign of it working.
+
 ## Install notes
 1. Drag and drop the files into your game directory and it'll work. Click replace all files for the ones it asks about.
 2. Only works on windows.
