@@ -1,5 +1,5 @@
 # Inscryption64 hack
-So, you've been modding inscryption and your game keeps crashing because of a of ram allocation error. This is because Inscryption is a 32-bit program, which means it can only allocate up to 4 gigabytes of ram. This hack turns Inscryption into a x64 game, meaning you no longer have a 4gb ram ceiling.
+So, you've been modding inscryption and your game keeps crashing because of a ram allocation error. This is because Inscryption is a 32-bit program, which means it can only allocate up to 4 gigabytes of ram. This hack turns Inscryption into a x64 game, meaning you no longer have a 4gb ram ceiling.
 
 ## DISCLAIMER
 THIS GAME DOES NOT CONTAIN ANY INSCRYPTION ASSETS.
